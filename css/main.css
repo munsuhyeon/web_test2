@@ -1,0 +1,50 @@
+ /* 메인컨텐츠 main CSS */\\
+
+ main {
+    width:770px;
+    float:right;
+ }
+
+ main #notice_free_youtube {
+    border:solid 1px red;
+    height:20px;
+    position:relative;
+    margin:10px 0 0 0;
+ }
+
+ main #notice {
+    border:solid 1px red;
+    width:370px;
+ }
+
+ main .latest_title {
+    padding:0 0 3px 0;
+    border-bottom:solid 1px #cccccc;
+ }
+
+ main .latest_title.latest_img {
+    float:left;
+ }
+
+ main .latest_title .more {
+    float:right;
+ }
+
+ main .latest_content .book_img {
+    float:left;
+    margin: 10px 0 0 20px;
+ }
+
+ main .latest_content .list div {
+    float:left;
+ }
+
+ main .latest_content .list .subject {
+    width:170px;
+ }
+
+ main .latest_content .li {
+    padding:10px 0 10px 0;
+
+ }
+
